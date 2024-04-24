@@ -45,3 +45,4 @@ Full source code can be found in the Airline Review.ipynb
 ### References
 https://www.kaggle.com/datasets/juhibhojani/airline-reviews
 <br> https://www.iata.org/en/pressroom/2022-releases/2022-03-01-01/
+<br> https://www.iata.org/en/pressroom/2023-releases/2023-12-06-01/#:~:text=Airline%20profitability%20for%202023%20performed,93%20billion%20higher%20than%20expected
