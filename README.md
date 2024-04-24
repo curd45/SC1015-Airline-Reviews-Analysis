@@ -44,3 +44,4 @@ Full source code can be found in the Airline Review.ipynb
 
 ### References
 https://www.kaggle.com/datasets/juhibhojani/airline-reviews
+https://www.iata.org/en/pressroom/2022-releases/2022-03-01-01/
