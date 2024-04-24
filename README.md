@@ -4,7 +4,9 @@
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on analysing passenger reviews on airlines. 
 
 ## Problem Definition
-Analyse airline reviews to identify factors affecting passenger ratings and recommendations. Given a list of passenger reviews, we wanted to analyse the importance of various cabin classes in the rating and recommendation of an airline. Moreover, we also wanted to rank the factors that matters most to passengers (from these 'Seat Comfort', 'Cabin Staff Service', 'Food & Beverages', 'Ground Service', 'Inflight Entertainment', 'Wifi & Connectivity') and also look at how the rankings have changed before and after COVID. 
+Analyse airline reviews to identify factors affecting passenger ratings and recommendations. Given a list of passenger reviews, we wanted to analyse the importance of various cabin classes in the rating and recommendation of an airline. Moreover, we also wanted to rank the factors that matters most to passengers (from these 'Seat Comfort', 'Cabin Staff Service', 'Food & Beverages', 'Ground Service', 'Inflight Entertainment', 'Wifi & Connectivity', 'Value for Money') and also looked at how the rankings have changed before and after COVID. 
+
+For simplicity sake, we split reviews before 1 Jan 2020 as pre COVID and reviews on and after 1 Jan 2020 as post COVID
 
 At the end, we have also provided our final judgement by ranking the factors and provided actionable insights that airlines can undertake to boost their overall rating and recommendation numbers. 
 
