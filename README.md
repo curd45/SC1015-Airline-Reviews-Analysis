@@ -39,6 +39,8 @@ Overall Rating -> 1) Ground Service, 2) Cabin Staff Service, 3) Seat Comfort
 @Timothy - EDA & XGBoost
 @curd45 (Param) - Problem, ML and Data Driven Insights
 
+Full source code can be found in the Airline Review.ipynb
+
 
 ### References
 https://www.kaggle.com/datasets/juhibhojani/airline-reviews
